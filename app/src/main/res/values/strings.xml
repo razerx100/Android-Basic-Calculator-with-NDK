@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NativeTest</string>
+    <string name="input_prompt1">Enter first number</string>
+    <string name="input_prompt2">Enter second number</string>
+    <string name="button_add">Add</string>
+    <string name="button_sub">Subtract</string>
+    <string name="button_mul">Multiplication</string>
+    <string name="button_div">Division</string>
+</resources>
